@@ -26,6 +26,3 @@
   <img aling="center" alt="docker" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <div>
 
-#
-Apaixonado por tecnologia, e músico nas horas vagas 💻 🥁.
-
