@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Ivan Silva 🖐️
 #
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100013800302031)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ivanndosssilva)
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-silva-4ba014221/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BH6lnZxolTaCf1u1oSmXyKA%3D%3D)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivansilvaweb@gmail.com)
 
@@ -29,3 +28,4 @@
 
 #
 Apaixonado por tecnologia, e músico nas horas vagas 💻 🥁.
+
